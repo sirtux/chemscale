@@ -1,3 +1,6 @@
+$fa=1; $fs=0.5;
+
+
 // We want to have an empty box,
 // inner size
 
